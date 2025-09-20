@@ -1,11 +1,9 @@
 
 # Hi there 👋
 
-A brief description of what this project does and who it's for
-
 ## I`m DevOps-Engineer at VK, Russia and this is my personal repo for different stuff related to Linux, Kubernetes, Go and etc.
 
-Few things you should about me:
+Few things you should know about me:
 - based in Moscow, Russia 🇷🇺
 - you can connect write me at lesnikovdaniel@gmail.com 📧
 - im interested in collaborative open-source projects 👀
